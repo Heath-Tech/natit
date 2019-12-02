@@ -1,0 +1,15 @@
+.navbar {
+    min-height: 2.5em;
+
+    .navbar-brand {
+        height: 2.2em;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+
+        img {
+            box-sizing: border-box;
+            height: inherit !important;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Global
+@import './base/base';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Fonts (Font-Awesome)
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+/**************************************************************
+    CUSTOM
+***************************************************************/
+@import './modules/modules';
+@import './templates/templates';
